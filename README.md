@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="100%" height="250" style="border-radius: 0px; object-fit: cover;" src="https://raw.githubusercontent.com/iamaswinth/TheMindSurf/main/rag-compentator/public/WALLPAPER-2025040706350810.jpg" alt="Header Banner"/>
+   <img width="100%"  style="border-radius: 0px; object-fit: cover;" src="https://raw.githubusercontent.com/iamaswinth/TheMindSurf/main/rag-compentator/public/bartman_pixel.jpg" alt="Header Banner"/>
 </div>
 
 <div align="center">
