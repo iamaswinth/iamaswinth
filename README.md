@@ -112,7 +112,8 @@ Building "intelligent" web apps with Next.js, React, and FastAPI—where the AI 
 <br/>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamaswinth&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=iamaswinth&theme=onedark)
+
 
 
 <br/>
